@@ -41,7 +41,7 @@ The data is in the listings.csv file, which was downloaded from [Kaggle](https:/
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/).
+The main findings of the code can be found at the post available [here](https://medium.com/@iampawanpoojary/eda-and-ml-over-airbnb-dataset-for-seattle-2cd33f41c322).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Credit to Airbnb for providing the data. Licensing information can be found at the [Kaggle page](https://www.kaggle.com/airbnb/seattle) and the original source from [Airbnb Inside](http://insideairbnb.com/get-the-data.html).
