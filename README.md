@@ -35,7 +35,7 @@ Please note that the notebook utilizes Plotly for a majority of the visualizatio
 
 The Plotly visualizations' output will not appear when viewing in Github, so please go to NBViewer at the following address:
 
-https://nbviewer.jupyter.org/github/iampawanpoojary/airbnbml/airbnb_ml.ipynb
+https://nbviewer.jupyter.org/github/iampawanpoojary/airbnbml/blob/master/airbnb_ml.ipynb
 
 The data is in the listings.csv file, which was downloaded from [Kaggle](https://www.kaggle.com/airbnb/seattle).
 
