@@ -9,6 +9,7 @@
 
 ## Installation <a name="installation"></a>
 
+
 This project utilizes default packages within the Anaconda distribution of Python for the majority of the analysis. 
 
 However, you will need to install plotly if you haven't already done so before. See [Getting Started with Plotly for Python](https://plot.ly/python/getting-started/).
